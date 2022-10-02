@@ -1,4 +1,4 @@
-# The Radiant Rainbow Squids
+# The Radiant Rainbow Squids - Nitin Jaladanki
 
 This code package contains a simulated Bluefin Sandshark with front seat processor, and a backseat processor. The front seat and back seat can be run on different machines within the same network.
 
